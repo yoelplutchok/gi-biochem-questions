@@ -1,5 +1,5 @@
 # GI Biochemistry Practice Questions
 
-Questions made for the GI bio lectures (TouroCOM), grouped by similarity, in the order the 2026 lectures teach them, with explanations and the teaching slides.
+Questions made for the GI bio lectures (TouroCOM), set inside organized lecture notes, each part of the notes followed by its practice questions, core questions under each part and the repeats and harder versions in a "More questions" dropdown, with explanations and the teaching slides.
 
 Live page: https://yoelplutchok.github.io/gi-biochem-questions/
